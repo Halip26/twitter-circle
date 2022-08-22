@@ -1,4 +1,5 @@
-![Example](/assets/screenshot.png)
+### 💻 &nbsp;Preview :
+<p align="center"><img src="assets/screenshot.png" style="width:100%" /></p>
 
 # My Twitter Circles with rotating animation
 
