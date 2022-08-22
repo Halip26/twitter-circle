@@ -11,7 +11,7 @@ The concept is easy and straightforward but the realization encompasses a lot of
 ```shell script
 git clone https://github.com/Halip26/twitter-circle.git
 
-cd twitter-interaction-circle
+cd twitter-circle
 
 ```
 
